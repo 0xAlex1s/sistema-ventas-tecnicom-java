@@ -1,0 +1,19 @@
+2025-10-25 22:54:24 WARN  controlador.ControlUsuario - Intento fallido de login para usuario 'jhonny'
+2025-10-25 22:54:42 INFO  controlador.ControlUsuario - Usuario actualizado correctamente: ID 1
+2025-10-25 22:54:52 INFO  controlador.ControlUsuario - Usuario actualizado correctamente: ID 1
+2025-10-25 22:55:08 WARN  controlador.ControlUsuario - Intento fallido de login para usuario 'alexis'
+2025-10-25 22:55:12 WARN  controlador.ControlUsuario - Intento fallido de login para usuario 'alexis'
+2025-10-25 22:55:17 WARN  controlador.ControlUsuario - Intento fallido de login para usuario 'alexis'
+2025-10-25 22:56:40 WARN  controlador.ControlUsuario - Intento fallido de login para usuario 'alexis'
+2025-10-25 22:56:59 WARN  controlador.ControlUsuario - Intento fallido de login para usuario 'alexis'
+2025-10-25 22:58:07 WARN  controlador.ControlUsuario - Intento fallido de login para usuario 'alexis'
+2025-10-25 22:58:11 WARN  controlador.ControlUsuario - Intento fallido de login para usuario 'alexis'
+2025-10-25 22:58:13 WARN  controlador.ControlUsuario - Intento fallido de login para usuario 'alexis'
+2025-10-25 23:01:21 WARN  controlador.ControlUsuario - Intento fallido de login para usuario 'alexis'
+2025-10-25 23:01:24 WARN  controlador.ControlUsuario - Intento fallido de login para usuario 'alexis'
+2025-10-25 23:01:25 WARN  controlador.ControlUsuario - Intento fallido de login para usuario 'alexis'
+2025-10-25 23:01:27 WARN  controlador.ControlUsuario - Intento fallido de login para usuario 'alexis'
+2025-10-25 23:19:51 WARN  controlador.ControlUsuario - Intento fallido de login para usuario 'johnny'
+2025-10-25 23:20:55 WARN  controlador.ControlUsuario - Intento fallido de login para usuario 'johnny'
+2025-10-25 23:32:07 INFO  controlador.ControlUsuario - Usuario actualizado correctamente: ID 1
+2025-10-25 23:40:02 INFO  controlador.ControlUsuario - Usuario actualizado correctamente: ID 1

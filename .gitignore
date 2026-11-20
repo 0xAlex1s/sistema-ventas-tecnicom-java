@@ -1,0 +1,9 @@
+﻿*.class
+*.jar
+*.war
+build/
+dist/
+target/
+.nb-gradle/
+nbproject/private/
+.DS_Store
